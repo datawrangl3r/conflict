@@ -1,5 +1,5 @@
 def add(x, y):
-	i = x-y
+	i = x*y
 	return i
 
 if __name__ == "__main__":
