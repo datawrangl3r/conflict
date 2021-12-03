@@ -1,6 +1,6 @@
 def add(x, y):
-	z = x-y
-	return z
+	i = x+y
+	return i
 
 if __name__ == "__main__":
 	do_stng = 0
